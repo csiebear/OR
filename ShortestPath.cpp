@@ -1,11 +1,10 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include <cstdio>
+#include <cstdlib>
 #include <deque>
 #include <vector>
 #include <list>
 #include <utility>
 #include <iostream>
-#include <cstdlib>
 
 using namespace std;
 
