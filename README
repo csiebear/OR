@@ -1,0 +1,10 @@
+ShortestPath Problem using Dequeue to Implement the Label-correcting Algorithm
+學生：李碩軒
+學號：F74004101
+編譯方式：g++ -o ShortestPath ShortestPath.cpp
+執行方式：./ShortestPath
+執行過程：
+請先確認資料夾下有network.txt的檔案，此資料提供節點個數與邊的個數，以及各條邊的資訊(起點/終點/長度)
+利用演算法-標籤修正法(label-correcting algorithm)來算出提供的網路(network)的最短路徑問題(Shortest Path Problem)的解答。
+執行結果：
+產出ShortestPaht.txt檔案，找出原點到各點的最短距離。
